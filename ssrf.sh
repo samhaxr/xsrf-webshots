@@ -27,7 +27,7 @@ done < ssrf_payload
 echo ' '
 echo ' '
 echo -e "\033[0;32m [+]\033[0m Loading Modules..."
-sleep 10
+sleep 3
 echo ' '
 echo -e "\033[0;32m [+]\033[0m Taking screenshots"
 scr=$(python webscreenshot.py -i _bck_ -t5 )
