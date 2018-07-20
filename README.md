@@ -1,0 +1,1 @@
+# xsrf-webshots
