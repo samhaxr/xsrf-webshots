@@ -1,3 +1,7 @@
+#!/bin/bash
+#!Coded by Suleman Malik
+#!www.sulemanmalik.com
+
 function ln(){
 echo -e "\033[0;31m=============================\033[0m"
 }
